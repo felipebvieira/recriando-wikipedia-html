@@ -42,6 +42,15 @@ O projeto implementa as seguintes boas práticas de HTML5 e Acessibilidade:
 
 ---
 
+### 📝 Observações e Escopo do Projeto
+
+É importante notar que alguns **links de navegação interna e externa** nas páginas (principalmente aqueles copiados diretamente da estrutura original da Wikipedia) não levam a URLs funcionais ou a seções específicas dentro do projeto.
+
+* **Decisão de Manutenção:** Optei por manter esses *placeholders* de links (`<a href="#">` ou links para URLs que não existem) para preservar a **estrutura completa** e a **semântica** da navegação complexa da Wikipedia.
+* **Foco:** O foco principal deste desafio é a **estrutura do HTML5, semântica e acessibilidade**, não a funcionalidade completa da navegação. Esses links podem ser removidos ou corrigidos em uma etapa futura.
+
+---
+
 ## 🚀 Como Executar o Projeto
 
 1.  **Clone o Repositório:**
