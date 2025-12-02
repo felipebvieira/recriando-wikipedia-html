@@ -46,7 +46,7 @@ O projeto implementa as seguintes boas práticas de HTML5 e Acessibilidade:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/felipebvieira/recriando-wikipedia-html]
+    git clone https://github.com/felipebvieira/recriando-wikipedia-html
     ```
 
 2.  **Abra o Arquivo:**
